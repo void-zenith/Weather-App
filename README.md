@@ -11,5 +11,8 @@ Weather App is a web-based application used to show detailed forecast of the pre
 ### Link to openweathermap API
 - [https://openweathermap.org/api](https://openweathermap.org/api)
 
+## Screenshot of the website
+![](images/homepage-WeatherApp.jpg)
+
 
 
